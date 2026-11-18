@@ -1,6 +1,6 @@
 # Khushbu Kumawat – Portfolio (React)
 
-![App Screenshot](assests/images/image.png)
+![App Screenshot](/public/assets/images/image.png)
 
 ## Run locally
 npm install
