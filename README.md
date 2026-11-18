@@ -1,6 +1,6 @@
 # Khushbu Kumawat – Portfolio (React)
 
-React + Vite version of the vCard portfolio template (MIT, © codewithsadee – see LICENSE).
+![App Screenshot](assests/images/image.png)
 
 ## Run locally
 npm install
